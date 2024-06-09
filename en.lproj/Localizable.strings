@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  MovieMinds
+
+  Created by Lahori, Divyansh on 08/06/24.
+  
+*/
+
+// MainScreen
+"MainScreen.trending" = "Trending";
+"MainScreen.nowPlaying" = "Now Playing";
+"MainScreen.popular" = "Popular";
+"MainScreen.topRated" = "Top Rated";
+"MainScreen.errorStateText" = "Some error has occured. Not able to load the application requirements.";
+
+
+//Custom Dialogue
+"CustomDialogue.userInput.title" = "Name your Playlist";
+"CustomDialogue.userInput.message" = "Get your Customized Playlist of Movies to watch later.";
+"CustomDialogue.userInput.placeholder" = "How's the Mood";
+"CustomDialogue.userInput.confirm" = "Confirm";
+"CustomDialogue.confirmation.title" = "Great Cinema Choice !";
+"CustomDialogue.confirmation.message" = "**%@** has just been added to one of your playlist.";
+"CustomDialogue.confirmation.done" = "Done";
+
+
+//Horizontal Scroll View
+
+"HorizontalScrollView.all" = "All";
+"HorizontalScrollView.today" = "Today";
+"HorizontalScrollView.thisWeek" = "This Week";
+"HorizontalScrollView.all" = "All";
+
+// PlaylistSheet View
+
+"PlaylistSheetView.addAPlaylist" = "Add a Playlist";
+"PlaylistSheetView.yourPlaylists" = "Your Playlists";
+"PlaylistSheetView.addPlaylist.emptyPlaylistMessage" = "You don't have any playlists. Create one down here!";
+"PlaylistSheetView.filter.emptyPlaylistMessage" = "You don't have any **playlists**. Create one by **long pressing** any movie card.";
+"PlaylistSheetView.filter.infoText" = "You can filter the movies according to your playlists.";
+"PlaylistSheetView.addPlaylist.infoText" = "Add movie to your existing playlists or create a new one.";
+"PlaylistSheetView.resetFilters" = "Reset Filters";
