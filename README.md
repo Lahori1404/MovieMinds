@@ -1,4 +1,4 @@
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 15 Pro Max - 2025-07-20 at 12 35 42" src="https://github.com/user-attachments/assets/a5b33522-6ce0-43c8-9f42-cd577e44b2af" /># MovieMinds
+# MovieMinds
 The MovieMinds What to Watch app helps you to discover individually (or with family or friends) the next great show or movie via a customizable hub of trending and personalized picks and quick, fun mini-games
 We help to answer the question “What should I watch tonight?” on your Fire TV. With streaming choices becoming more complex by the day, MovieMinds provide fans a new experience that makes it easy to discover new shows and movies, get instant recommendations, and find how to watch anything.
 
